@@ -50,7 +50,7 @@ public class PokerFrame extends Application {
 		private GridPane top = new GridPane();
 		private GridPane bottom = new GridPane();
 		private Label message = new Label();
-
+//PROVA
 		
 		/**Event Hadler for the five bottom buttons*/
 		EventHandler<ActionEvent> choose = new EventHandler<ActionEvent>() {
